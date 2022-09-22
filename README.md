@@ -2,6 +2,7 @@
 <h3>A passionate developer from Japan</h3>
 
 - 🌱 I’m currently learning **Rust, Python, Java, etc**
+- 🌸 Lamium amplexicaule is the scientific name for my favorite flower, Henbit!
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
