@@ -14,7 +14,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/rust/rust-plain.svg" width="64" height="64" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/linux/linux-original.svg" width="64" height="64" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/apple/apple-original.svg" width="64" height="64" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/windows8/windows8-original.svg" width="64" height="64" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/windows11/windows11-original.svg" width="64" height="64" />
 </p>
 
 ![LamiumAmplexicaule's github stats](https://github-readme-stats.vercel.app/api?username=LamiumAmplexicaule&count_private=true)
