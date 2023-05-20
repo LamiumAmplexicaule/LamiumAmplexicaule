@@ -12,6 +12,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/pytorch/pytorch-original.svg" width="64" height="64" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/pycharm/pycharm-original.svg" width="64" height="64" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/rust/rust-plain.svg" width="64" height="64" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/clion/clion-original.svg" width="64" height="64" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/linux/linux-original.svg" width="64" height="64" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/apple/apple-original.svg" width="64" height="64" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/windows11/windows11-original.svg" width="64" height="64" />
